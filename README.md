@@ -5,7 +5,10 @@
 - My motivation for making this project was to better understand how to clean up and understand code written by another person.  
 - I made this to show the different ways to clean and shorted code.  This also shows some key accessability standards.  
 - This solves my issues by giving me a direct guide of the different options I have.  
-- The largest thing I learned from this project is how to go about using variables to increase the ease for the code. 
+- The largest thing I learned from this project is how to go about using variables to increase the ease for the code.
+
+- ![website](https://github.com/gooseman789/Challenge-project-1/assets/106124000/6063deed-86d4-4d4c-8ca0-846a9b40df3a)
+
 
 ## Installation
 
